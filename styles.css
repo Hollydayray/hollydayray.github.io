@@ -3,7 +3,19 @@ img {
   height: auto;
 }
 
-p {
+p1 {
 max-width: 60ch;
 color: green;
 }
+h2 {
+font-weight: bold;
+color: green;
+
+p2 {
+max-width: 60ch;
+color: green;
+}
+
+h2 {
+font-weight: bold;
+color: green;
